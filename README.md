@@ -41,6 +41,10 @@ Professional Experience:
         Identified and reported defects, and collaborated with development team to resolve issues
         Participated in Agile sprint planning and retrospectives
         Contributed to the development of test automation frameworks
+    Associate Software Test Engineer. QA Test Engineer, Tech Mahindra Limited (2020-2022)
+        Developed and executed test cases for software products
+        Developed and ases for software products
+
 
 Education:
 
