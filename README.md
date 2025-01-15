@@ -16,7 +16,7 @@ Contact Information:
 
     Email: theronakthakkar@gmail.com
     Phone: +91 9724984666
-    LinkedIn: linkedin.com/ronak
+    LinkedIn: https://www.linkedin.com/in/ronak-thakkar5/
 
 Summary:
 Highly experienced Sr. QA Test Engineer with over 5 years of experience in software testing. Proven track record of delivering high-quality products and improving testing efficiency. Skilled in test planning, test case development, test automation, and defect tracking. Strong understanding of Agile methodologies and testing frameworks, including Selenium, Appium, and TestNG.
