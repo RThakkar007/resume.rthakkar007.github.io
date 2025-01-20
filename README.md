@@ -48,7 +48,7 @@ Professional Experience:
 
 Education:
 
-    Master's Degree in Computer Science, [HNGUniversity, Patan] (2013-2018)
+    M.Sc.(CA&IT) Master's Degree in Computer Science, [HNGUniversity, Patan] (2013-2018)
 
 Certifications:
 
