@@ -2,7 +2,7 @@
 Ronak Cover Letter:
 
 Dear Hiring Manager,
-I am excited to apply for the Sr. QA Test Engineer position at [Company Name]. With over 8 years of experience in software testing and a strong passion for delivering high-quality products, I am confident that I would be a valuable addition to your team.
+I am excited to apply for the Sr. QA Test Engineer position at [Company Name]. With over 6 years of experience in software testing and a strong passion for delivering high-quality products, I am confident that I would be a valuable addition to your team.
 As a seasoned QA professional, I have a deep understanding of software testing principles, methodologies, and tools. My expertise includes test planning, test case development, test automation, and defect tracking. I have worked with various testing frameworks, including Selenium, Appium, and TestNG, and have experience with Agile methodologies, such as Scrum and Kanban.
 In my current role at Tech Mahindra Limited, I have been responsible for leading the QA team and ensuring the quality of our software products. I have successfully implemented test automation frameworks, improved testing efficiency, and reduced defect leakage. I am excited about the opportunity to bring my skills and experience to [Company Name] and contribute to the success of your team.
 I am particularly drawn to [Company Name] because of its commitment to innovation and customer satisfaction. I am impressed by the company's cutting-edge products and its dedication to delivering high-quality solutions. I am excited about the opportunity to be a part of a team that shares my passion for quality and excellence.
