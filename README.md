@@ -25,7 +25,7 @@ Technical Skills:
     Programming languages: Java, Python, C
     Testing frameworks: Selenium, Appium, (TestNG, JUnit)
     Agile methodologies: Scrum, Kanban
-    Defect tracking tools: JIRA, Trello, Asana, GitLab, TestRai
+    Defect tracking tools: Jira, Trello, Asana, GitLab, TestRail
     Operating Systems: Windows, Linux, macOS
     Cloud platforms: (AWS, Azure)
 
