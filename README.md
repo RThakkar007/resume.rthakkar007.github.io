@@ -10,6 +10,36 @@ Thank you for considering my application. I would welcome the opportunity to dis
 Sincerely,
 Ronak Thakkar
 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+Objective
+Providing quality solutions to any business problems within scope, budget and tight schedules.
+
+Professional Summary
+
+• ISTQB certified software tester with 6+ years of manual testing, including 3 years
+agile and scrum environment work experience.
+• Experienced in implementing QA processes, leading multiple projects with multi-site & multi-cultural teams.
+• Experienced in testing web applications, windows surface applications and mobile (iOS, Android) applications.
+• Expert knowledge in different types of testing: functional, integration, system/end-to-end, regression, user acceptance,
+UI/UX, browser compatibility, sanity, smoke and ad-hoc testing.
+• Extensive experience in Project management tool and Atlassian Jira bug tracking tool.
+• Actively participated with software development life cycle, software testing life cycle and bug life cycle.
+• Intermediate level of proficiency experience in rest API automation testing using tools such as postman.
+• Worked on JMeter to test web applications for various loads on crucial business scenarios.
+• Good exposure to requirement gathering and involved in client interaction and dealing with clients regularly.
+• Writing and executing different test scripts, scenarios, test reports and test cases with well-organized test steps.
+• Experienced in the agile scrum model, involved in sprint grooming, daily scrum and sprint retrospective meetings.
+• Worked directly with development team and management for every minor/major release.
+• Work with data owners to verify and obtain approval that any transformed data retains its accuracy.
+• Ability to work within given time frames and deadlines both at an individual and team level.
+• Experienced in various business domains such as e-commerce, Social Media & entertainment, and real estate.
+• A self-starter with a goal-oriented approach to problem-solving, willing to learn, adapt to new challenges.
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
 # Resume:
 Name: Ronak Thakkar
 Contact Information:
